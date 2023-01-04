@@ -5,8 +5,12 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
 
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL_Crime" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/5GRNM4N/rtlcrime.png" group-title="TV NOW",RTL Crime
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="0" radio="" tvg-logo="",RTL
+plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5327361
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL_Crime" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/5GRNM4N/rtlcrime.png",RTL Crime
 plugin://plugin.video.tvnow.de?action=playLive&vod_url=4336379
+
+
 #EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="Sat1_Emotions" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/qBQ5yQy/sat1emotions.png" group-title="JOYN",SAT.1 Emotions
 plugin://plugin.video.joyn/?mode=play_video&tv_show_id=&season_id=&video_id=sat1emotions-de-hd&stream_type=LIVE
 
