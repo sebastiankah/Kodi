@@ -5,7 +5,7 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/RTL_DE_Logo_2021_pink_blau_gruen.png",RTL
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5327361
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1" tvg-shift="0" radio="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sat-1-logo-png-transparent.png",Sat1
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1" tvg-shift="0" radio="" tvg-logo="https://banner2.cleanpng.com/20180528/srr/kisspng-sat-1-prosieben-tele-5-live-television-corporate-logo-logo-5b0cbedab31233.3502786515275619467335.jpg",Sat1
 plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=sat1-de&amp;stream_type=LIVE
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro7" tvg-shift="0" radio="" tvg-logo="https://w7.pngwing.com/pngs/478/324/png-transparent-prosieben-2015-hd-logo.png",Pro7
 plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=prosieben-de&amp;stream_type=LIVE
@@ -27,7 +27,7 @@ plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&a
 plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=dmax-de&amp;stream_type=LIVE
 #EXTINF:-1 tvg-id="Eurosport.de" tvg-name="Eurosport" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png",Eurosport
 plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=eurosport1-de&amp;stream_type=LIVE
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Sport-1-Logo%2C_2013.svg",Sport1
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sport-1-Logo%2C_2013.svg/1992px-Sport-1-Logo%2C_2013.svg.png",Sport1
 plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=sport1-de&amp;stream_type=LIVE
 #EXTINF:-1 tvg-id="SIXX.de" tvg-name="SIXX" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/2000px-Sixx_Logo.svg.png",SIXX
 plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=sixx-de&amp;stream_type=LIVE
