@@ -3,52 +3,54 @@
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="0" radio="" tvg-logo="",RTL
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/RTL_DE_Logo_2021_pink_blau_gruen.png",RTL
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5327361
-
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1" tvg-shift="0" radio="" tvg-logo="https://img.joyn.de/gn/assets/p17825833_e_h10_aa.jpg",Sat1
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1" tvg-shift="0" radio="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sat-1-logo-png-transparent.png",Sat1
 plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=sat1-de&amp;stream_type=LIVE
-
-
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-shift="0" radio="" tvg-logo="",RTL2
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro7" tvg-shift="0" radio="" tvg-logo="https://w7.pngwing.com/pngs/478/324/png-transparent-prosieben-2015-hd-logo.png",Pro7
+plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=prosieben-de&amp;stream_type=LIVE
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1200px-RTLZWEI_Logo_2019.svg.png",RTL2
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299728
-
-
-
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="Vox" tvg-shift="0" radio="" tvg-logo="",Vox
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel1" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/2000px-Kabel_eins_Logo_2015.svg.png",Kabel1
+plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=kabeleins-de&amp;stream_type=LIVE
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="Vox" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/2560px-VOX_Logo_2013.svg.png",Vox
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5327970
 #EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="SuperRTL" tvg-shift="0" radio="" tvg-logo="",SuperRTL
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="SuperRTL" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a4/Super_RTL_logo_2019.png",SuperRTL
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299790
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-
-#EXTINF:-1 tvg-id="Nitro.de" tvg-name="Nitro" tvg-shift="0" radio="" tvg-logo="",Nitro
+#EXTINF:-1 tvg-id="Pro7Maxx.de" tvg-name="Pro7 MAXX" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1200px-ProSieben_MAXX_Logo.svg.png",Pro7 MAXX
+plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=prosiebenmaxx-de&amp;stream_type=LIVE
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" tvg-shift="0" radio="" tvg-logo="https://banner2.cleanpng.com/20180829/qie/kisspng-logo-brand-isuzu-d-max-font-product-onlinetv-home-office-ideas-2-17-5b87016ddb5b58.7624222615355743818985.jpg",DMAX
+plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=dmax-de&amp;stream_type=LIVE
+#EXTINF:-1 tvg-id="Eurosport.de" tvg-name="Eurosport" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png",Eurosport
+plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=eurosport1-de&amp;stream_type=LIVE
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Sport-1-Logo%2C_2013.svg",Sport1
+plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=sport1-de&amp;stream_type=LIVE
+#EXTINF:-1 tvg-id="SIXX.de" tvg-name="SIXX" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/2000px-Sixx_Logo.svg.png",SIXX
+plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=sixx-de&amp;stream_type=LIVE
+#EXTINF:-1 tvg-id="Nitro.de" tvg-name="Nitro" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png",Nitro
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299548
-#EXTINF:-1 tvg-id="NTV.de" tvg-name="NTV" tvg-shift="0" radio="" tvg-logo="",NTV
+#EXTINF:-1 tvg-id="NTV.de" tvg-name="NTV" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo-n-tv.svg/2560px-Logo-n-tv.svg.png",NTV
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299664
-#EXTINF:-1 tvg-id="RTLUp.de" tvg-name="RTL Up" tvg-shift="0" radio="" tvg-logo="",RTL Up
+#EXTINF:-1 tvg-id="RTLUp.de" tvg-name="RTL Up" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/23/RTL_UP_Logo_2021.png",RTL Up
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299754
-#EXTINF:-1 tvg-id="VoxUp.de" tvg-name="Vox Up" tvg-shift="0" radio="" tvg-logo="",Vox Up
+#EXTINF:-1 tvg-id="VoxUp.de" tvg-name="Vox Up" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Voxup_Logo_2019.svg/2560px-Voxup_Logo_2019.svg.png",Vox Up
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299946
-#EXTINF:-1 tvg-id="ToggoPlus.de" tvg-name="ToggoPlus" tvg-shift="0" radio="" tvg-logo="",ToggoPlus
+#EXTINF:-1 tvg-id="ToggoPlus.de" tvg-name="ToggoPlus" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_of_Toggo_Plus.png",ToggoPlus
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299587
-#EXTINF:-1 tvg-id="NowUs.de" tvg-name="NowUs" tvg-shift="0" radio="" tvg-logo="",NowUs
+#EXTINF:-1 tvg-id="NowUs.de" tvg-name="NowUs" tvg-shift="0" radio="" tvg-logo="https://www.new-business.de/_data/Now_US_Logo_2018_250.png",NowUs
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299808
-#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion" tvg-shift="0" radio="" tvg-logo="",RTL Passion
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTL_Passion_Logo_2021.svg/2560px-RTL_Passion_Logo_2021.svg.png",RTL Passion
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299898
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living" tvg-shift="0" radio="" tvg-logo="",RTL Living
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTL_Living_Logo_2021.svg/1280px-RTL_Living_Logo_2021.svg.png",RTL Living
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299862#
-#EXTINF:-1 tvg-id="RTLGeo.de" tvg-name="RTL Geo" tvg-shift="0" radio="" tvg-logo="",RTL Geo
+#EXTINF:-1 tvg-id="RTLGeo.de" tvg-name="RTL Geo" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/GEO_Television.png/800px-GEO_Television.png",RTL Geo
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299923
 #EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL_Crime" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/5GRNM4N/rtlcrime.png",RTL Crime
 plugin://plugin.video.tvnow.de?action=playLive&vod_url=4336379
-
-
-#EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="Sat1_Emotions" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/qBQ5yQy/sat1emotions.png" group-title="JOYN",SAT.1 Emotions
-plugin://plugin.video.joyn/?mode=play_video&tv_show_id=&season_id=&video_id=sat1emotions-de-hd&stream_type=LIVE
-
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
