@@ -3,6 +3,16 @@
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL_Crime" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/5GRNM4N/rtlcrime.png" group-title="TV NOW",RTL Crime
+plugin://plugin.video.tvnow.de?action=playLive&vod_url=4336379
+#EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="Sat1_Emotions" tvg-shift="0" radio="" tvg-logo="https://i.ibb.co/qBQ5yQy/sat1emotions.png" group-title="JOYN",SAT.1 Emotions
+plugin://plugin.video.joyn/?mode=play_video&tv_show_id=&season_id=&video_id=sat1emotions-de-hd&stream_type=LIVE
+
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-shift="0" radio="" tvg-logo="https://img.joyn.de/gn/assets/p13720919_e_h8_aa.jpg" group-title="JOYN",SAT.1 Emotions
+plugin://plugin.video.joyn/?mode=play_video&tv_show_id=&season_id=&video_id=prosieben-de-hd&stream_type=LIVE
+
 plugin://plugin.video.rtlgroup.de/?mode=playDash&action=LIVE&xnormSD=-&xhighHD=https://plivenowusodash.secure.footprint.net/live/rtlhdlive/rtlhdlive.isml/.mpd&xcode=RTL&xlink=https://www.tvnow.de/live-tv/rtl&xdrm=True&xstat=-
 plugin://plugin.video.rtlgroup.de/?mode=playDash&action=LIVE&xnormSD=-&xhighHD=https://plivenowusodash.secure.footprint.net/live/voxhdlive/voxhdlive.isml/.mpd&xcode=VOX&xlink=https://www.tvnow.de/live-tv/vox&xdrm=True&xstat=-
 plugin://plugin.video.rtlgroup.de/?mode=playDash&action=LIVE&xnormSD=-&xhighHD=https://plivenowusodash-cf-prod.tvnow.de/live/srtlhdlive/srtlhdlive.isml/.mpd&xcode=SUPERRTL&xlink=https://www.tvnow.de/live-tv/superrtl&xdrm=True&xstat=-
