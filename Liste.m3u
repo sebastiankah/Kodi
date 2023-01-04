@@ -6,8 +6,14 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="0" radio="" tvg-logo="",RTL
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5327361
 
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1" tvg-shift="0" radio="" tvg-logo="https://img.joyn.de/gn/assets/p17825833_e_h10_aa.jpg",Sat1
+plugin://plugin.video.joyn/?mode=play_video&amp;parent_block_id=&amp;block_id=&amp;channel_id=&amp;movie_id=&amp;tv_show_id=&amp;season_id=&amp;teaser_id=&amp;video_id=sat1-de&amp;stream_type=LIVE
+
+
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-shift="0" radio="" tvg-logo="",RTL2
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5299728
+
+
 
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="Vox" tvg-shift="0" radio="" tvg-logo="",Vox
 plugin://plugin.video.tvnow.de?action=playLive&amp;vod_url=5327970
