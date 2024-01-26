@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13th.street.de" tvg-name="13th Street HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", 13th Street HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4191.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", A&E DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4198.ts
+#EXTINF:-1 tvg-id="atv.de" tvg-name="ATV DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", ATV DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4209.ts
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", AXN HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4205.ts
+#EXTINF:-1 tvg-id="comedy.central.de" tvg-name="Comedy Central HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", Comedy Central HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4208.ts
+#EXTINF:-1 tvg-id="fox.de" tvg-name="FOX HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", FOX HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4190.ts
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", HR HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4206.ts
+#EXTINF:-1 tvg-id="kabel.1.doku.de" tvg-name="Kabel 1 Doku" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", Kabel 1 Doku
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4197.ts
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt TV DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", Kinowelt TV DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4193.ts
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", NDR HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4204.ts
+#EXTINF:-1 tvg-id="orf.1.de" tvg-name="ORF 1 HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", ORF 1 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4202.ts
+#EXTINF:-1 tvg-id="orf.2.de" tvg-name="ORF 2 HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", ORF 2 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4203.ts
+#EXTINF:-1 tvg-id="sat.1.de" tvg-name="Sat 1  HD" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", Sat 1  HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4199.ts
+#EXTINF:-1 tvg-id="spiegel.geschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", Spiegel Geschichte HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4201.ts
+#EXTINF:-1 tvg-id="tnt.serie.de" tvg-name="TNT Serie HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", TNT Serie HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4189.ts
+#EXTINF:-1 tvg-id="universal.de" tvg-name="Universal TV HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", Universal TV HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4207.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIVA Comedy DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", VIVA Comedy DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4196.ts
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD DE" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", VOX HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4192.ts
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF info" tvg-logo="" tvg-shift="0" group-title="German UNTERHALTUNG", ZDF info
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4200.ts
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", 3sat HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4106.ts
+#EXTINF:-1 tvg-id="arte.de" tvg-name="arte HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", arte HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4105.ts
+#EXTINF:-1 tvg-id="kabel.eins.classics.de" tvg-name="Kabel 1 Classics" tvg-logo="" tvg-shift="0" group-title="German Algemeen", Kabel 1 Classics
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4118.ts
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="Kabel Eins HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", Kabel Eins HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4117.ts
+#EXTINF:-1 tvg-id="one.de" tvg-name="ONE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", ONE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4122.ts
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" tvg-logo="" tvg-shift="0" group-title="German Algemeen", Phoenix
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4116.ts
+#EXTINF:-1 tvg-id="prosieben.de" tvg-name="ProSieben HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", ProSieben HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4112.ts
+#EXTINF:-1 tvg-id="prosieben.maxx.de" tvg-name="ProSieben Maxx HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", ProSieben Maxx HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4113.ts
+#EXTINF:-1 tvg-id="rtl.ii.de" tvg-name="RTL 2 HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", RTL 2 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4109.ts
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", RTL HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4108.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL Nitro HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", RTL Nitro HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4110.ts
+#EXTINF:-1 tvg-id="sat.1.gold.de" tvg-name="Sat 1 Gold" tvg-logo="" tvg-shift="0" group-title="German Algemeen", Sat 1 Gold
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4115.ts
+#EXTINF:-1 tvg-id="sat.1.de" tvg-name="Sat 1 HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", Sat 1 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4114.ts
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", SIXX HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4111.ts
+#EXTINF:-1 tvg-id="tele.5.de" tvg-name="Tele 5" tvg-logo="" tvg-shift="0" group-title="German Algemeen", Tele 5
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4119.ts
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD DE" tvg-logo="" tvg-shift="0" group-title="German Algemeen", ZDF HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4107.ts
+#EXTINF:-1 tvg-id="animal.planet.de" tvg-name="Animal Planet" tvg-logo="" tvg-shift="0" group-title="German Dokumentarfilme", Animal Planet
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4159.ts
+#EXTINF:-1 tvg-id="crime.investigation.de" tvg-name="Crime Investigation" tvg-logo="" tvg-shift="0" group-title="German Dokumentarfilme", Crime Investigation
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4162.ts
+#EXTINF:-1 tvg-id="history.de" tvg-name="History HD DE" tvg-logo="" tvg-shift="0" group-title="German Dokumentarfilme", History HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4157.ts
+#EXTINF:-1 tvg-id="nat.geo.wild.de" tvg-name="Nat Geo Wild HD DE" tvg-logo="" tvg-shift="0" group-title="German Dokumentarfilme", Nat Geo Wild HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4160.ts
+#EXTINF:-1 tvg-id="national.geographic.de" tvg-name="National Geographic HD DE" tvg-logo="" tvg-shift="0" group-title="German Dokumentarfilme", National Geographic HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4158.ts
+#EXTINF:-1 tvg-id="planet.de" tvg-name="Planet" tvg-logo="" tvg-shift="0" group-title="German Dokumentarfilme", Planet
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4161.ts
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="Anixe HD DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", Anixe HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4120.ts
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Classica DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", Classica DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4154.ts
+#EXTINF:-1 tvg-id="das.erste.de" tvg-name="Das Erste HD DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", Das Erste HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4104.ts
+#EXTINF:-1 tvg-id="itv2.plus.1.gb" tvg-name="Dazn 1" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", Dazn 1
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4136.ts
+#EXTINF:-1 tvg-id="discovery.de" tvg-name="Discovery HD DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", Discovery HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4155.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", DMAX
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4121.ts
+#EXTINF:-1 tvg-id="e.entertainment.de" tvg-name="E! Entertainm HD DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", E! Entertainm HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4156.ts
+#EXTINF:-1 tvg-id="kika.de" tvg-name="KIKA HD DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", KIKA HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4163.ts
+#EXTINF:-1 tvg-id="n.de" tvg-name="N-TV HD DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", N-TV HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4210.ts
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", Romance TV DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4195.ts
+#EXTINF:-1 tvg-id="rtl.crime.de" tvg-name="RTL Crime DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", RTL Crime DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4194.ts
+#EXTINF:-1 tvg-id="sky.1.de" tvg-name="SKY 1" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", SKY 1
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema  1" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", Sky Cinema  1
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4174.ts
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy HD DE" tvg-logo="" tvg-shift="0" group-title="DE | Deutshland", Syfy HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4188.ts
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="Boomerang DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Boomerang DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4171.ts
+#EXTINF:-1 tvg-id="cartoon.network.de" tvg-name="Cartoon Network DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Cartoon Network DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4169.ts
+#EXTINF:-1 tvg-id="disney.de" tvg-name="Disney Channel HD DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Disney Channel HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4167.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinemagic HD DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Disney Cinemagic HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4166.ts
+#EXTINF:-1 tvg-id="disney.junior.de" tvg-name="Disney Jr DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Disney Jr DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4165.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Disney XD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4164.ts
+#EXTINF:-1 tvg-id="junior.de" tvg-name="Junior DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Junior DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Nickelodeon HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4170.ts
+#EXTINF:-1 tvg-id="super.rtl.de" tvg-name="Super RTL HD DE" tvg-logo="" tvg-shift="0" group-title="German Kinder", Super RTL HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4168.ts
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="Euronews" tvg-logo="" tvg-shift="0" group-title="German Nachrichten", Euronews
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4211.ts
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-name="N24 HD DE" tvg-logo="" tvg-shift="0" group-title="German Nachrichten", N24 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4212.ts
+#EXTINF:-1 tvg-id="welt.de" tvg-name="WELT HD DE" tvg-logo="" tvg-shift="0" group-title="German Nachrichten", WELT HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4213.ts
+#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="Eurosport 1 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Eurosport 1 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4148.ts
+#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Eurosport 2 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4149.ts
+#EXTINF:-1 tvg-id="eurosport.2.xtra.de" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Eurosport 2 Xtra HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4150.ts
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision TV DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Motorvision TV DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4153.ts
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 1 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4124.ts
+#EXTINF:-1 tvg-id="sky.sport.10.de" tvg-name="Sky Sport 10 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 10 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4133.ts
+#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 2 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4125.ts
+#EXTINF:-1 tvg-id="sky.sport.3.de" tvg-name="Sky Sport 3 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 3 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4126.ts
+#EXTINF:-1 tvg-id="sky.sport.4.de" tvg-name="Sky Sport 4 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 4 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4127.ts
+#EXTINF:-1 tvg-id="sky.sport.5.de" tvg-name="Sky Sport 5 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 5 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4128.ts
+#EXTINF:-1 tvg-id="sky.sport.6.de" tvg-name="Sky Sport 6 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 6 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4129.ts
+#EXTINF:-1 tvg-id="sky.sport.7.de" tvg-name="Sky Sport 7 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 7 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4130.ts
+#EXTINF:-1 tvg-id="sky.sport.8.de" tvg-name="Sky Sport 8 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 8 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4131.ts
+#EXTINF:-1 tvg-id="sky.sport.9.de" tvg-name="Sky Sport 9 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport 9 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4132.ts
+#EXTINF:-1 tvg-id="sky.sport.austria.2.de" tvg-name="Sky Sport Austria 2" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Austria 2
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4135.ts
+#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="Sky Sport Austria HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Austria HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4134.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 1 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4138.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.10.de" tvg-name="Sky Sport Bundesliga 10 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 10 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4147.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.2.de" tvg-name="Sky Sport Bundesliga 2 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 2 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4139.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.3.de" tvg-name="Sky Sport Bundesliga 3 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 3 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4140.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.4.de" tvg-name="Sky Sport Bundesliga 4 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 4 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4141.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.5.de" tvg-name="Sky Sport Bundesliga 5 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 5 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4142.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.6.de" tvg-name="Sky Sport Bundesliga 6 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 6 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4143.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.7.de" tvg-name="Sky Sport Bundesliga 7 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 7 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4144.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.8.de" tvg-name="Sky Sport Bundesliga 8 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 8 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4145.ts
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.9.de" tvg-name="Sky Sport Bundesliga 9 DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport Bundesliga 9 DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4146.ts
+#EXTINF:-1 tvg-id="sky.sport.news.de" tvg-name="Sky Sport News HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sky Sport News HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4123.ts
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport 1 HD DE" tvg-logo="" tvg-shift="0" group-title="German Sports", Sport 1 HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4152.ts
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sportdigital" tvg-logo="" tvg-shift="0" group-title="German Sports", Sportdigital
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Atlantic HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema  24" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema  24
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4175.ts
+#EXTINF:-1 tvg-id="sky.cinema.action.de" tvg-name="Sky Cinema Action HD DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema Action HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4183.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema Comedy DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4182.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comic Helden DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema Comic Helden DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Emotion DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema Emotion DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4180.ts
+#EXTINF:-1 tvg-id="sky.cinema.family.de" tvg-name="Sky Cinema Family HD DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema Family HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4179.ts
+#EXTINF:-1 tvg-id="sky.cinema.fun.de" tvg-name="Sky cinema fun HD" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky cinema fun HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema HD DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky CINEMA Hits HD DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky CINEMA Hits HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4178.ts
+#EXTINF:-1 tvg-id="sky.cinema.premieren.de" tvg-name="Sky Cinema Premieren HD" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema Premieren HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4102.ts
+#EXTINF:-1 tvg-id="sky.cinema.thriller.de" tvg-name="Sky Cinema Thriller HD DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Cinema Thriller HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4103.ts
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="Sky Krimi DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Krimi DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4185.ts
+#EXTINF:-1 tvg-id="sky.serien.shows.de" tvg-name="Sky Serien & Shows HD" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky Serien & Shows HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky_Cinema Nostalgie DE" tvg-logo="" tvg-shift="0" group-title="German KINO", Sky_Cinema Nostalgie DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4176.ts
+#EXTINF:-1 tvg-id="tnt.comedy.de" tvg-name="TNT Comedy HD DE" tvg-logo="" tvg-shift="0" group-title="German KINO", TNT Comedy HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4187.ts
+#EXTINF:-1 tvg-id="tnt.film.de" tvg-name="TNT Film HD DE" tvg-logo="" tvg-shift="0" group-title="German KINO", TNT Film HD DE
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4186.ts
+#EXTINF:-1 tvg-id="canale.5.ch" tvg-name="5 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", 5 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4691.ts
+#EXTINF:-1 tvg-id="canal.9.ch" tvg-name="CANAL 9" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", CANAL 9
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4692.ts
+#EXTINF:-1 tvg-id="kanal.9.ch" tvg-name="KANAL 9" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", KANAL 9
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4693.ts
+#EXTINF:-1 tvg-id="kanal.9.ch" tvg-name="Kanal 9 (Deutsch) HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", Kanal 9 (Deutsch) HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4694.ts
+#EXTINF:-1 tvg-id="lfm.tv.hd.ch" tvg-name="LFM TV FHD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", LFM TV FHD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4695.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 2 FHD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", MySports 2 FHD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4696.ts
+#EXTINF:-1 tvg-id="rouge.tv.ch" tvg-name="Rouge TV FHD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", Rouge TV FHD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4697.ts
+#EXTINF:-1 tvg-id="rsi.la.1.ch" tvg-name="RSI LA 1 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", RSI LA 1 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4698.ts
+#EXTINF:-1 tvg-id="rsi.la.2.ch" tvg-name="RSI LA 2 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", RSI LA 2 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4699.ts
+#EXTINF:-1 tvg-id="rts.un.ch" tvg-name="RTS 1 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", RTS 1 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4700.ts
+#EXTINF:-1 tvg-id="rts.deux.ch" tvg-name="RTS 2 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", RTS 2 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4701.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", RTS Couleur 3
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4702.ts
+#EXTINF:-1 tvg-id="rts.deux.ch" tvg-name="RTS DEUX HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", RTS DEUX HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4703.ts
+#EXTINF:-1 tvg-id="rts.un.ch" tvg-name="RTS UN HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", RTS UN HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4704.ts
+#EXTINF:-1 tvg-id="sfr.sport.1.ch" tvg-name="SFR 1" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", SFR 1
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sportal HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", Sportal HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4706.ts
+#EXTINF:-1 tvg-id="srf.1.ch" tvg-name="SRF 1 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", SRF 1 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4707.ts
+#EXTINF:-1 tvg-id="sfr.sport.2.ch" tvg-name="SRF 2 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", SRF 2 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4708.ts
+#EXTINF:-1 tvg-id="srf.info.ch" tvg-name="SRF INFO HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", SRF INFO HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4709.ts
+#EXTINF:-1 tvg-id="srf.zwei.ch" tvg-name="SRF ZWEI HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", SRF ZWEI HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4710.ts
+#EXTINF:-1 tvg-id="telebasel.ch" tvg-name="Tele Basel HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", Tele Basel HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4711.ts
+#EXTINF:-1 tvg-id="tele.m1.ch" tvg-name="Tele M1 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", Tele M1 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4712.ts
+#EXTINF:-1 tvg-id="telebom.teledom.ch" tvg-name="TeleBärn" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", TeleBärn
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4713.ts
+#EXTINF:-1 tvg-id="teleclub.cinema.ch" tvg-name="TeleClub Cinema HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", TeleClub Cinema HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4714.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleClub Sport 1 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", TeleClub Sport 1 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4715.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECLUB SPORT 2 HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", TELECLUB SPORT 2 HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teleclub Zoom HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", Teleclub Zoom HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4717.ts
+#EXTINF:-1 tvg-id="tvo.ch" tvg-name="TVO HD" tvg-logo="" tvg-shift="0" group-title="SW | Swiss", TVO HD
+http://5.182.209.225:8080/live/f0HNjp4PX2/n6lDnD2iMY/4718.ts
